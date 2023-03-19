@@ -1,1 +1,2 @@
-# awsAssignmnet1
+# sequelize
+ 
